@@ -11,3 +11,7 @@ $git init
 Initialized empty git Repository in Teklm/skill-communicate-using-markdown
 ```
 Unless that's not where that goes, in which case tee hee
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
